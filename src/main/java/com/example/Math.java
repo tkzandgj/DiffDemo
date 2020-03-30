@@ -8,6 +8,7 @@ package com.example;
  */
 public class Math {
     public int multiply(int a,int b){
-        return a*b;
+       	 System.out.println(a + " " + b);
+	 return a*b;
     }
 }
